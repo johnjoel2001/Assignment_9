@@ -1,0 +1,6 @@
+streamlit
+joblib
+plotly
+lime
+requests
+pandas
