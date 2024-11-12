@@ -4,3 +4,4 @@ plotly
 lime
 requests
 pandas
+streamlit-lottie
